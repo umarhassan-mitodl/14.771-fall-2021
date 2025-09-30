@@ -1,0 +1,48 @@
+leftnav:
+- identifier: b6c9da71-f10c-4780-86bd-27faee373cdf
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0c86ad82-2fd1-4b52-b14e-472cff5fd0c2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 82322159-8ead-421c-a4e2-80d2a75e8b52
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 43f96fda-74f3-45ab-be1a-c5cd5f8cae9c
+  name: Video Lectures
+  pageRef: /video_galleries/lecture-videos
+  weight: 40
+- identifier: 210b93cc-83fd-4a0e-be7d-fdd67b8ab69d
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: acf8ad89-6798-41fd-bd79-46ff8cb73e22
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
+- identifier: 6c75a918-cb45-4f97-9b7c-e72163e337da
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  weight: 10
+- identifier: 24e70b89-0be0-4c21-b065-5d57239a329f
+  name: Replication Assignment
+  pageRef: /pages/replication-assignment
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  weight: 20
+- identifier: 1368f3db-9acc-4bec-a0cf-a238a8077e39
+  name: Research Proposal
+  pageRef: /pages/research-proposal
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  weight: 30
