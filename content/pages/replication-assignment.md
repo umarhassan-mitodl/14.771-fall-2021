@@ -3,8 +3,6 @@ content_type: page
 description: 'This page describes the replication assignment, that reviews an empirical
   paper. '
 draft: false
-hide_download: true
-hide_download_original: null
 title: Replication Assignment
 uid: 24e70b89-0be0-4c21-b065-5d57239a329f
 ---
@@ -35,4 +33,4 @@ Extend the work either by either: 
 **Resources**           
 The product of this exercise is a short essay. Start polishing your writing skills now rather than the summer before you go on the job market. Learn to tell stories with numbers by imitating the good work of others. And as is increasingly required in economics as well, please submit a documented code to go with your results. The papers in the journals of the *American Economic Association* (AEA) have their data available for replication. That could be a good place to look for papers to replicate! Bear in mind that this is only true from 2015 on.
 
-[Datahub for Field Experiments in Economics and Public Policy](https://dataverse.harvard.edu/dataverse/DFEEP) with data for 150 different recent RCTs.
+{{% resource_link "33bfdb9f-3a5a-4017-a07b-6a17175ee341" "Datahub for Field Experiments in Economics and Public Policy" %}} with data for 150 different recent RCTs.

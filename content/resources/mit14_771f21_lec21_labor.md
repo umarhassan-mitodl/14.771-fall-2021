@@ -5,8 +5,6 @@ draft: false
 file: /courses/14-771-development-economics-fall-2021/mit14_771f21_lec21_labor.pdf
 file_size: 249858
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

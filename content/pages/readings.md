@@ -26,7 +26,7 @@ Readings marked \*\*\* are required.  
 *Read the following in detail:*
 
 - \*\*\* Dasgupta, Partha and Debraj Ray (1986). "[Inequality as a Determinant of Malnutrition and Unemployment: Theory](Inequality as a Determinant of Malnutrition and Unemployment: Theory)." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
--  \*\*\* Srinivasan, T. N. (1994). "[Destitution: A Discourse](https://www.jstor.org/stable/2728797)." *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
+-  \*\*\* Srinivasan, T. N. (1994). "{{% resource_link "be433b77-fbfe-4f0e-9d0f-53782940e4e7" "Destitution: A Discourse" %}}." *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
 
 *Theory*
 
@@ -34,11 +34,11 @@ Readings marked \*\*\* are required.  
 
 *Evidence (or Lack Thereof)*
 
-- \*\*\* Subramanian, Shankar and Angus Deaton (1996), "[The Demand for Food and Calories" (PDF - 3MB)](https://www.princeton.edu/~deaton/downloads/The_Demand_for_Food_and_Calories.pdf). *Journal of Political Economy*, Vol. 104 (1), pp 133-62. 
+- \*\*\* Subramanian, Shankar and Angus Deaton (1996), "{{% resource_link "ea65bc95-0bbc-4dc6-9a9f-500d9c20e93e" "The Demand for Food and Calories\" (PDF - 3MB)" %}}. *Journal of Political Economy*, Vol. 104 (1), pp 133-62. 
 - Deaton, Angus and Jean Dreze (2009). “Nutrition in India: Facts and Interpretation.” *Economic and Political Weekly*, 14 February 2009. 
 - Strauss, John (1986), “Does Better Nutrition Raise Farm Productivity?”, *Journal of Political Economy,* Vol. 94, 297-320. 
-- \*\*\* Banerjee, Abhijit and Esther Duflo (2004). “[Growth Theory through the Lens of Development Economics” (PDF)](https://economics.mit.edu/sites/default/files/2022-08/Growth%20Theory%20Through%20the%20Lens%20of%20Development%20Econ.pdf). Section 2.1.2. 
-- \*\*\* Haushofer, Johannes and Jeremy Shapiro (2016). “[The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7575201/).” *The Quarterly Journal of Economics*, Volume 131, Issue 4, Pages 1973–2042
+- \*\*\* Banerjee, Abhijit and Esther Duflo (2004). “{{% resource_link "fff15455-6084-49d0-8a73-b9cf49417dfc" "Growth Theory through the Lens of Development Economics” (PDF)" %}}. Section 2.1.2. 
+- \*\*\* Haushofer, Johannes and Jeremy Shapiro (2016). “{{% resource_link "882347f5-7c8c-4bd8-9e0e-4c3ef3e9de5c" "The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya" %}}.” *The Quarterly Journal of Economics*, Volume 131, Issue 4, Pages 1973–2042
 - Jensen, Robert and Nolan Miller (2011). “Do Consumer Price Subsidies Really Improve Nutrition?” *Review of Economics and Statistics*, Vol. 93(4), pp. 1205-1223. 
 - Jensen, Robert and Nolan Miller (2008). “Giffen Behavior and Subsistence Consumption.” *American Economic Review*, 98(4), p. 1553−1577. 
 - Strauss, John and Duncan Thomas (1998). “Health, Nutrition and Economic Development.” *Journal of Economic Literature*, Vol. 36 (2), 766-817. 
@@ -54,13 +54,13 @@ Readings marked \*\*\* are required.  
 
 ## Sessions 3–4: Behavioral Economics
 
-\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941.  
+\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "{{% resource_link "9907d9f5-b4b7-4c45-85f6-1a3dd2e0eb89" "The economic consequences of increasing sleep among the urban poor" %}}." *The Quarterly Journal of Economics*, 136(3), 1887-1941.  
 
 *General Introduction / reference*
 
-\*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). "[Behavioral Development Economics](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300265)." In *Handbook of Behavioral Economics, Vol. 2*. 2019. ISBN: 9780444633750.
+\*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). "{{% resource_link "36e5585c-c6bc-402f-9ca8-9a2abcda28df" "Behavioral Development Economics" %}}." In *Handbook of Behavioral Economics, Vol. 2*. 2019. ISBN: 9780444633750.
 
-More generally, the recent [*Handbook of Behavioral Economics*](https://www.amazon.com/Handbook-Behavioral-Economics-Foundations-Applications/dp/044463374X) provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
+More generally, the recent {{% resource_link "05007f57-1b3b-4f29-aea8-baf572febadf" "*Handbook of Behavioral Economics*" %}} provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
 
 *The Euler Equation Puzzle and Demand for Commitment*
 
@@ -111,7 +111,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 *The Neo-Classical Model: Returns, Costs, and Budget Constraints*
 
-- \*\*\* Banerjee, Abhijit (2004). “[Educational Policy and the Economics of the Family.](https://www.sciencedirect.com/science/article/abs/pii/S0304387803001780)” *Journal of Development Economics*, 74 3-32. 
+- \*\*\* Banerjee, Abhijit (2004). “{{% resource_link "0c48e3b4-1a23-4a2e-9417-a94c48a039a5" "Educational Policy and the Economics of the Family." %}}” *Journal of Development Economics*, 74 3-32. 
 - Becker, Gary (1981). *A Treatise on the Family.* Harvard University Press. ISBN 9780674906990.
 - Barro, Robert (1974). “Are Government Bonds Net Wealth?” *Journal of Political Economy* 82 (6) 1095-117.
 - Loury, Glenn (1981). “Intergenerational Transfers and the Distribution of Earnings.” *Econometrica*, 49 (4) 843-867.
@@ -125,11 +125,11 @@ Read in detail:
 
 *Perceived Returns and Benefits*
 
-- \*\*\* Jensen, Robert (2010). “[The Perceived Return to Education and the Demand for Schooling](https://academic.oup.com/qje/article-abstract/125/2/515/1882172?redirectedFrom=fulltext).” *Quarterly Journal of Economics* 125 (2), p 515-548. 
-- \*\*\* Jensen, Robert (2012). "[Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India](https://academic.oup.com/qje/article-abstract/127/2/753/1823744)." *Quarterly Journal of Economics*, 127(2), p. 753-792.
+- \*\*\* Jensen, Robert (2010). “{{% resource_link "1aff2ba2-b193-4502-8919-06fd5da0d127" "The Perceived Return to Education and the Demand for Schooling" %}}.” *Quarterly Journal of Economics* 125 (2), p 515-548. 
+- \*\*\* Jensen, Robert (2012). "{{% resource_link "b2070f94-70c0-445c-8211-ffcbc01ddf5b" "Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India" %}}." *Quarterly Journal of Economics*, 127(2), p. 753-792.
 - Nguyen, Trang (2008). “Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar.” MIT. 
-- \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “[Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines](https://academic.oup.com/qje/article-abstract/124/1/349/1890364?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
-- \*\*\* Qian, Nancy (2008). “[Missing Women and the Price of Tea in China](https://academic.oup.com/qje/article-abstract/123/3/1251/1928174?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
+- \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “{{% resource_link "531f359c-89e8-44d8-b856-48cbcc32580c" "Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines" %}}.” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
+- \*\*\* Qian, Nancy (2008). “{{% resource_link "053de599-8aae-4ee4-9d7a-f345880f99ae" "Missing Women and the Price of Tea in China" %}}.” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
 
 *Costs and opportunity costs: School building and Conditional Cash transfers*
 
@@ -139,33 +139,33 @@ Read in detail:
 *Intra-family information gap and behavioral issues*
 
 - Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
-- \*\*\* Dizon-Ross, Rebecca (2019). "[Parents' beliefs about their children's academic ability: Implications for educational investments](https://www.nber.org/papers/w24610)." *American Economic Review* 109, no. 8: 2728-65. 
+- \*\*\* Dizon-Ross, Rebecca (2019). "{{% resource_link "c024d007-9b98-4e77-bd1b-2cd6843b9f06" "Parents' beliefs about their children's academic ability: Implications for educational investments" %}}." *American Economic Review* 109, no. 8: 2728-65. 
 
 *Evidence (Part 2)—Private and Social returns to education*
 
 *Read the following in detail:*
 
-\*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "[The impact of free secondary education: Experimental evidence from Ghana](https://www.nber.org/papers/w28937)." No. w28937. National Bureau of Economic Research.
+\*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "{{% resource_link "551c804f-3289-4a8b-abff-d0bfa7c0f884" "The impact of free secondary education: Experimental evidence from Ghana" %}}." No. w28937. National Bureau of Economic Research.
 
 *Other papers*
 
 - Chou, Shin-Yi, Jin-Tan Liu, Michael Grossman, and Ted Joyce (2010). "Parental Education and Child Health: Evidence from a Natural Experiment in Taiwan." *American Economic Journal: Applied Economics*, 2(1): 33-61.
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
-- \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
+- \*\*\* Duflo, Esther (2004). “{{% resource_link "3f78d175-236a-4932-a1d8-ecb7a3bf87fa" "The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia" %}}.” *Journal of Development Economics*, 74(1), 163-197. 
 
 **Education: The Supply Side**
 
 *General*
 
-- \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "[From proof of concept to scalable policies: Challenges and solutions, with an application](https://www.nber.org/papers/w22931)." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
+- \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "{{% resource_link "4d38e2d8-423a-426a-a058-2b9cfd86bf40" "From proof of concept to scalable policies: Challenges and solutions, with an application" %}}." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
 - Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74.
-- \*\*\* Glewwe, Paul and Michael Kremer (2006). "[Schools, Teachers, and Education Outcomes in Developing Countries](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-122)." in *Handbook of the Economics of Education*, Elsevier. 
+- \*\*\* Glewwe, Paul and Michael Kremer (2006). "{{% resource_link "705afe2b-1550-4733-acf7-821998abdbd5" "Schools, Teachers, and Education Outcomes in Developing Countries" %}}." in *Handbook of the Economics of Education*, Elsevier. 
 - Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
 
 *Class Size*
 
-- \*\*\* Angrist, Joshua and Victor Lavy (1999). "[Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement](https://www.jstor.org/stable/2587016)," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
-- \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “[Class Size Caps, Sorting, and the Regression Discontinuity Design](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.179).” *American Economic Review*. Vol. (99)1: 179–215. 
+- \*\*\* Angrist, Joshua and Victor Lavy (1999). "{{% resource_link "c9c82244-5c26-49fa-8cbe-0433d00a19f5" "Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement" %}}," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
+- \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “{{% resource_link "eb562b65-02df-4843-ad9c-e24edef3bc26" "Class Size Caps, Sorting, and the Regression Discontinuity Design" %}}.” *American Economic Review*. Vol. (99)1: 179–215. 
 
 *Incentives*
 
@@ -227,7 +227,7 @@ Read in detail:
 
 *Other readings*
 
-- \*\*\* Dupas, Pascaline (2014). “[Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence from a Field Experiment.](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9508)” *Econometrica* 82(1), pp. 197-28. 
+- \*\*\* Dupas, Pascaline (2014). “{{% resource_link "362726de-f351-4ea9-830e-62c3f61d55e6" "Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence from a Field Experiment." %}}” *Econometrica* 82(1), pp. 197-28. 
 - Cohen, Jessica and Pascaline Dupas (2010). “Free Distribution or Cost-Sharing? Evidence from a Randomized Malaria Prevention Experiment.” *Quarterly Journal of Economics* 125 (1), pp.1-45. 
 - Cohen, Jessica, Pascaline Dupas, and Simone Schaner (2015). “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment. *American Economic Review* 105, no. 2. (February 2015): 609–645.
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
@@ -238,15 +238,15 @@ Read in detail:
 
 *Health Care*
 
-- \*\*\* Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan (2016). "[Quality and accountability in health care delivery: audit-study evidence from primary care in India.](https://www.aeaweb.org/articles?id=10.1257/aer.20151138)" *American Economic Review* 106, no. 12: 3765-99. 
+- \*\*\* Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan (2016). "{{% resource_link "e7e8ff1b-8da3-439c-84c1-f9d791467fde" "Quality and accountability in health care delivery: audit-study evidence from primary care in India." %}}" *American Economic Review* 106, no. 12: 3765-99. 
 - Das, Jishnu, Alaka Holla, Veena Das, Manoj Mohanan, Diana Tabak, and Brian Chan (2012). "In urban and rural India, a standardized patient study showed low levels of provider training and huge quality gaps." *Health Affairs* 31, no. 12: 2774-2784. 
 - Das J, and P. Gertler (2007). “Variations in Practice Quality in Five Low-Income Countries: A Conceptual Overview.” *Health Affairs*, 26(3):w296-w309.
-- \*\*\* Das, Jishnu, Jeffrey Hammer, and Kenneth Leonard (2008). "[The Quality of Medical Advice in Low-Income Countries](https://www.aeaweb.org/articles?id=10.1257/jep.22.2.93)." *Journal of Economic Perspectives*, 22(2): 93–114. 
+- \*\*\* Das, Jishnu, Jeffrey Hammer, and Kenneth Leonard (2008). "{{% resource_link "ab89277f-b8a6-4fe6-b1ab-4aa1d6f44814" "The Quality of Medical Advice in Low-Income Countries" %}}." *Journal of Economic Perspectives*, 22(2): 93–114. 
 - Leonard, K.L (2009). "The Cost of Imperfect Agency in Health Care: Evidence from Rural Cameroun." *Journal of Development Economics*, 88 (2). 
-- \*\*\*Leonard, K.L. (2008), “[Is Patient Satisfaction Sensitive to Changes in the Quality of Care? An Exploitation of the Hawthorne Effect](https://pubmed.ncbi.nlm.nih.gov/18192043/).” *Journal of Health Economics*, Volume 27, Issue 2, Pages 444-459. 
+- \*\*\*Leonard, K.L. (2008), “{{% resource_link "667cc303-ee39-41fc-bb0b-111fec28de72" "Is Patient Satisfaction Sensitive to Changes in the Quality of Care? An Exploitation of the Hawthorne Effect" %}}.” *Journal of Health Economics*, Volume 27, Issue 2, Pages 444-459. 
 - Banerjee A, A. Deaton, E. Duflo (2004). “Health Care Delivery in Rural Rajasthan.” *Economic and Political Weekly*, 15(2):153-57.
 - Das, Jishnu and Jeffrey Hammer (2005). “Which Doctor? Combining Vignettes and Item Response to Measure Clinical Competence.” *Journal of Development Economics*, Volume 78, Issue 2, December 2005, Pages 348-383. 
-- \*\*\* Das, Jishnu and Jeffrey Hammer (2007). [“Location, Location, Location: Residence, Wealth and the Quality of Medical Care in Delhi, India](https://www.healthaffairs.org/doi/10.1377/hlthaff.26.3.w338).” *Health Aff.* 2007; 26(3); w338-w351. 
+- \*\*\* Das, Jishnu and Jeffrey Hammer (2007). {{% resource_link "4e18d0ab-98db-4f12-89f5-c9b7da79d7bd" "“Location, Location, Location: Residence, Wealth and the Quality of Medical Care in Delhi, India" %}}.” *Health Aff.* 2007; 26(3); w338-w351. 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2006). "Missing in Action: Teacher and Health Worker Absence in Developing Countries." *Journal of Economic Perspectives*, 20(1): 91–116. 
 - Das, Jishnu and Hammer, Jeffrey (2007). "Money for Nothing: The Dire Straits of Medical Practice in Delhi, India." *Journal of Development Economics*, Volume 83, Issue 1, May 2007, Pages 1-36.
 - Olken, Benjamin, Junko Onishi, and Susan Wong (2014). “Should Aid Reward Performance? Evidence From a Field Experiment on Health and Education in Indonesia.” *American Economic Journal: Applied Economics6* (4)*.*
@@ -264,14 +264,14 @@ Read in detail:
 
 *Read the following in detail:*
 
- Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” *Journal of Political Economy*. 104(5), 1010-1046. 
+ Udry, Christopher (1996). “{{% resource_link "380ecf6a-b839-46fc-a50c-af3f4544a0ba" "Gender, Agricultural Production and the Theory of the Household." %}}” *Journal of Political Economy*. 104(5), 1010-1046. 
 
 *Other Readings*
 
-- \*\*\* Browning, Martin and Pierre-André Chiappori (1998). “[Efficient Intra-Household Allocations: A General Characterization and Empirical Tests.](http://www.jstor.org/stable/2999616?&Search=yes&searchText=econometrica&searchText=chiappori&list=hide&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dchiappori%26gw%3Djtx%26prq%3Deconometrica%26Search%3DSearch%26hp%3D25%26wc%3Don%26swp%3Don&prevSearch=&item=7&ttl=534&returnArticleService=showFullText) *Econometrica*, 66 (6): 1241-1278. 
+- \*\*\* Browning, Martin and Pierre-André Chiappori (1998). “{{% resource_link "63f9331f-2473-4fe8-bc52-9798fcb5762b" "Efficient Intra-Household Allocations: A General Characterization and Empirical Tests." %}} *Econometrica*, 66 (6): 1241-1278. 
 - Thomas, Duncan (1994). “Like Father, Like Son: Like Mother, Like Daughter: Parental Resources and Child Height.” *Journal of Human Resources*, 24(4): 950-88. 
-- \*\*\* Duflo, Esther and Christopher Udry (2004). "[Intra-household Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices](https://www.nber.org/papers/w10498).” NBER Working Paper No. 10498. 
-- \*\*\* Duflo, Esther (2003). "[Grandmothers and Granddaughters: Old Age Pension and Intra-household Allocation in South Africa](https://openknowledge.worldbank.org/handle/10986/17173)." *The* *World Bank Economic Review*, 17(1): 1-25. 
+- \*\*\* Duflo, Esther and Christopher Udry (2004). "{{% resource_link "8c04776e-9c7e-4e94-ab7c-1dac86fdc11f" "Intra-household Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices" %}}.” NBER Working Paper No. 10498. 
+- \*\*\* Duflo, Esther (2003). "{{% resource_link "e2b10a13-6d28-4b4f-8373-3b3560a2fcc3" "Grandmothers and Granddaughters: Old Age Pension and Intra-household Allocation in South Africa" %}}." *The* *World Bank Economic Review*, 17(1): 1-25. 
 - Basu, Kaushik (2006). "Gender and Say: A Model of Household Behaviour with Endogenously Determined Balance of Power." *The Economic Journal*, 116(511): 558-580. 
 - Chiappori, Pierre-André, Bernard Fortin and Guy Lacroix (2002). “Marriage Market, Divorce Legislation, and Household Labor Supply.” *Journal of Political Economy*, 110(1): 37-72. 
 - Angrist, Josh (2002). “How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America’s Second Generation.” *The Quarterly Journal of Economics*, 117(3)997-1038. 
@@ -286,7 +286,7 @@ Read in detail:
 
 - Bursztyn, Leonardo, Alessandra L. González, and David Yanagizawa-Drott (2020). "Misperceived social norms: Women working outside the home in Saudi Arabia." *American Economic Review* 110, no. 10: 2997-3029.
 - Diva Dhar, Tarun Jain, and Seema Jayachandran (2021). "Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India." 
-- \*\*\* Qian, Nancy (2008). “[Missing Women and the Price of Tea in China](https://academic.oup.com/qje/article-abstract/123/3/1251/1928174).” *Quarterly Journal of Economics*, 123(3), 1251-1285.
+- \*\*\* Qian, Nancy (2008). “{{% resource_link "bdf37d4f-9a69-4370-98f5-a2fba6e7c9f0" "Missing Women and the Price of Tea in China" %}}.” *Quarterly Journal of Economics*, 123(3), 1251-1285.
 - McKelway, Madeline (2021). "Women’s employment in India: Intra-household and intra-personal constraints."
 - Conlon, John J., Malavika Mani, Gautam Rao, Matthew W. Ridley, and Frank Schilbach (2021). "Learning in the Household." No. w28844. National Bureau of Economic Research. 
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
@@ -303,7 +303,7 @@ Read in detail:
 
 *Sharecropping and Moral Hazard*
 
-- \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, and Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts](https://academic.oup.com/qje/article/134/1/281/5106373).” *The Quarterly Journal of Economics*, 134(1): 281-347. 
+- \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, and Munshi Sulaiman (2019), “{{% resource_link "b069746a-4a23-4eba-a830-18157e3cf544" "Moral Hazard: Experimental Evidence from Tenancy Contracts" %}}.” *The Quarterly Journal of Economics*, 134(1): 281-347. 
 - Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies* 41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
 - Laffont, Jean-Jacques, and Mohamed Salah Matoussi (1995). “Moral Hazard, Financial Constraints and Sharecropping in El Oulja.” *Review of Economic Studies*, 62(3): 381-399. 
@@ -312,8 +312,8 @@ Read in detail:
 
 *Property Rights and Investment Decisions*
 
-- \*\* Goldstein, Markus and Christopher Udry (2008). "[The Profits of Power: Land Rights and Agricultural Investment in Ghana](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/595561)." *Journal of Political Economy*, 116 (6): 981-1022. 
-- \*\* Field, Erica (2007). "[Entitled to Work: Urban Property Rights and Labor Supply in Peru](https://www.jstor.org/stable/25098883)." *Quarterly Journal of Economics*, 122(4): 1561-1602. 
+- \*\* Goldstein, Markus and Christopher Udry (2008). "{{% resource_link "3e6e0b16-9b53-456d-b3c2-79ea38330529" "The Profits of Power: Land Rights and Agricultural Investment in Ghana" %}}." *Journal of Political Economy*, 116 (6): 981-1022. 
+- \*\* Field, Erica (2007). "{{% resource_link "5940cc4c-5126-4ab4-acac-3240bf28dc02" "Entitled to Work: Urban Property Rights and Labor Supply in Peru" %}}." *Quarterly Journal of Economics*, 122(4): 1561-1602. 
 - Goldstein, Markus, Kenneth Houngbedji, Florence Kondylis, Michael O’Sullivan, and Harris Selod (2018). “Formalization without certification? Experimental evidence on property rights and investment.” *Journal of Development Economics,* 132: 57-74.
 - De Janvry, Alain, Kyle Emerick, Marco Gonzalez-Navarro, and Elisabeth Sadoulet (2015). “Delinking Land Rights from Land Use: Certification and Migration in Mexico.” *American Economic Review*, 105(10), 3125-49. 
 - Galán, JS (2020). “Tied to the Land? Intergenerational Mobility and Agrarian Reform in Colombia.” Submitted to *Quarterly Journal of Economics.*
@@ -335,8 +335,8 @@ Read in detail:
 
 *Targeting*
 
-- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, and Julia Tobias (2012). “[Targeting the Poor: Evidence from a Field Experiment in Indonesia.](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.4.1206)” *American Economic Review*, 102(4): 1206-1240. 
-- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, Ririn Purnamasari, and Matthew Wai-Poi (2016). “[Self-Targeting: Evidence from a Field Experiment in Indonesia](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/685299).” *Journal of Political Economy* 124(2): 371-427. 
+- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, and Julia Tobias (2012). “{{% resource_link "f8b682b6-197b-4282-96de-64bd138c4a35" "Targeting the Poor: Evidence from a Field Experiment in Indonesia." %}}” *American Economic Review*, 102(4): 1206-1240. 
+- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, Ririn Purnamasari, and Matthew Wai-Poi (2016). “{{% resource_link "8ec77f4f-2998-405a-8ff2-cb25e47057d3" "Self-Targeting: Evidence from a Field Experiment in Indonesia" %}}.” *Journal of Political Economy* 124(2): 371-427. 
 - Hanna, Rema and Benjamin A. Olken (2018). “Universal Basic Incomes vs. Targeted Transfers: Anti-Poverty Programs in Developing Countries*.” Journal of Economic Perspectives.* 32(4): 201-226. 
 - Nichols, Albert L. and Richard J. Zeckhauser (1982). "Targeting Transfers through Restrictions on Recipients." *American Economic Review*, 72(2): 372-377. 
 - Olken, Benjamin A. (2006). “Corruption and the Costs of Redistribution: Micro evidence from Indonesia.” *Journal of Public Economics*, 90(4-5): 853-870. 
@@ -345,9 +345,9 @@ Read in detail:
 
 *The Form of Transfers: Conditionality, Cash vs In-Kind, Workfare*
 
-- \*\*\* Cunha, Jesse M., Giacomo De Giorgi, and Seema Jayachandran (2019). [“The Price Effects of Cash Versus In-Kind Transfers](https://academic.oup.com/restud/article-abstract/86/1/240/4962153).” *Review of Economic Studies*. 86, 240-281. 
-- \*\*\* Baird, Sarah, Craig McIntosh, and Berk Özler (2011). “[Cash or Condition? Evidence from a Cash Transfer Experiment](https://academic.oup.com/qje/article-abstract/126/4/1709/1922509).” *Quarterly Journal of Economics*, 126(4): 1709-175.
-- \*\*\* Banerjee, Abhijit, Rema Hanna, Benjamin A. Olken, Elan Satriawan, and Sudarno Sumarto (2021). “[Food vs. Food Stamps: Evidence from an At-Scale Experiment in Indonesia](https://www.nber.org/papers/w28641).” 
+- \*\*\* Cunha, Jesse M., Giacomo De Giorgi, and Seema Jayachandran (2019). {{% resource_link "397e4788-6fe7-4df0-b74f-e6d4f40bbfab" "“The Price Effects of Cash Versus In-Kind Transfers" %}}.” *Review of Economic Studies*. 86, 240-281. 
+- \*\*\* Baird, Sarah, Craig McIntosh, and Berk Özler (2011). “{{% resource_link "60ff0b5a-f88b-4266-9608-703b3066cf9d" "Cash or Condition? Evidence from a Cash Transfer Experiment" %}}.” *Quarterly Journal of Economics*, 126(4): 1709-175.
+- \*\*\* Banerjee, Abhijit, Rema Hanna, Benjamin A. Olken, Elan Satriawan, and Sudarno Sumarto (2021). “{{% resource_link "172dbdf1-c4c4-4faf-bf34-067d3c6a6529" "Food vs. Food Stamps: Evidence from an At-Scale Experiment in Indonesia" %}}.” 
 - Gadenne, Lucie, Samuel Norris, Monica Singhal, and Sandip Sukhtankar (2021). “In-Kind Transfers as Insurance.”
 - Cunha, Jesse M. (2014). “Testing Paternalism: Cash versus In-kind Transfers.” *American Economic Journal: Applied Economics*, 6(2): 195-230. 
 - Coate, Stephen, Stephen Johnson, and Richard Zeckhauser (1994). “Pecuniary Redistribution Through In-Kind Programs.” *Journal of Public Economics*, 55(1): 19-40. 
@@ -356,20 +356,20 @@ Read in detail:
 
 *Big Push Programs, Business Programs, Cash Transfers*
 
-- \*\*\* Banerjee, Abhijit, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Parienté, Jeremy Shapiro, Bram Thuysbaert, and Christopher Udry (2015). “[A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries](https://www.science.org/doi/10.1126/science.1260799).” *Science*, 348(6236): 772-790. 
+- \*\*\* Banerjee, Abhijit, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Parienté, Jeremy Shapiro, Bram Thuysbaert, and Christopher Udry (2015). “{{% resource_link "75befe5e-34cf-49d4-9cf5-17f7b7381594" "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries" %}}.” *Science*, 348(6236): 772-790. 
 - Blattman, Chris, Nathan Fiala, and Sebastian Martinez (2014). “Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda.” *Quarterly Journal of Economics*, 129 (2): 697-752. 
 - Blattman, Christopher, Eric P. Green, Julian Jamison, M. Christian Lehmann, and Jeannie Annan (2016). “The Returns to Microenterprise Support Among the Ultrapoor: A Field Experiment in Postwar Uganda.” *American Economic Journal: Applied Economics*, 8(2): 35-64. 
-- \*\*\*Haushofer, Johannes, and Jeremy Shapiro (2016). “[The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](https://academic.oup.com/qje/article-abstract/131/4/1973/2468874?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(4): 1973-2042. 
+- \*\*\*Haushofer, Johannes, and Jeremy Shapiro (2016). “{{% resource_link "20dc8496-49a1-4904-841c-0eb56df66f33" "The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya" %}}.” *Quarterly Journal of Economics*, 131(4): 1973-2042. 
 - Bandiera, Oriana, Robin Burgess, Narayan Das, Selim Gulesci, Imran Rasul, and Munshi Sulaiman (2017). “Labor Markets and Poverty in Village Economies.” *Quarterly Journal of Economics*, 132(2): 811-870. 
 
 **Taxation**
 
 *Taxes and the Informal Sector*
 
-- \*\*\* Jensen, Anders (2019). “[Employment Structure and the Rise of the Modern Tax System](https://www.nber.org/papers/w25502).” NBER Working Paper 25502.
-- \*\*\* Basri, M. Chatib, Mayara Felix, Rema Hanna, and Benjamin A. Olken (2019). “[Tax Administration vs. Tax Rates: Evidence from Corporate Taxation in Indonesia](https://www.nber.org/papers/w26150).” NBER Working Paper 26150.
--  \*\*\* Khan, Adnan Q., Asim Khwaja, and Benjamin A. Olken (2016). “[Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors](https://academic.oup.com/qje/article-abstract/131/1/219/2461220?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(1): 219-271. 
-- \*\*\*Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez (2016). “[Why Can Modern Governments Tax So Much? An Agency Model of Firms as Fiscal Intermediaries](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecca.12182)." *Economica*, 83: 219–246.
+- \*\*\* Jensen, Anders (2019). “{{% resource_link "79ddaabc-b4a8-442b-8d6f-209496e06b80" "Employment Structure and the Rise of the Modern Tax System" %}}.” NBER Working Paper 25502.
+- \*\*\* Basri, M. Chatib, Mayara Felix, Rema Hanna, and Benjamin A. Olken (2019). “{{% resource_link "30a85a7f-42cb-4bcd-8af7-cf0fabd15c92" "Tax Administration vs. Tax Rates: Evidence from Corporate Taxation in Indonesia" %}}.” NBER Working Paper 26150.
+-  \*\*\* Khan, Adnan Q., Asim Khwaja, and Benjamin A. Olken (2016). “{{% resource_link "61e107b1-64cb-467e-9465-f10dfbef901b" "Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors" %}}.” *Quarterly Journal of Economics*, 131(1): 219-271. 
+- \*\*\*Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez (2016). “{{% resource_link "b77fc929-25ca-4ba4-bb8a-15ea54ded827" "Why Can Modern Governments Tax So Much? An Agency Model of Firms as Fiscal Intermediaries" %}}." *Economica*, 83: 219–246.
 - Naritomi, Joana (2019). “Consumers as Tax Auditors.” *American Economic Review,* 109(9): 3031-72*.*
 - Kumler, Todd, Eric Verhoogen, and Judith Frías (2020). “Enlisting Employees in Improving Payroll-Tax Compliance: Evidence from Mexico.” 
 - Gordon, Roger and Wei Li (2009). “Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation.” *Journal of Public Economics*, 93(7-8): 855-866. 
@@ -390,7 +390,7 @@ Read in detail:
 
 *Labor Supply: Testing for Separation*
 
-- \*\*\* LaFave, Daniel and Duncan Thomas (2016). “[Farms, Families, and Markets: New Evidence on Completeness of Markets in Agricultural Settings](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA12987).” *Econometrica,* 84(5): 1917-1960. 
+- \*\*\* LaFave, Daniel and Duncan Thomas (2016). “{{% resource_link "a6b82b26-bef9-426b-8420-7412db1f80e5" "Farms, Families, and Markets: New Evidence on Completeness of Markets in Agricultural Settings" %}}.” *Econometrica,* 84(5): 1917-1960. 
 - LaFave, Daniel R., Evan D. Peet, and Duncan Thomas (2020). “Farm Profits, Prices and Household Behavior,” National Bureau of Economic Research.
 
 *Classical Labor Supply*
@@ -416,7 +416,7 @@ Read in detail:
 
 *Urban Labor Markets, Search, and Frictions*
 
-- \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 10(3): 1-38*.* 
+- \*\*\*Blattman, Christopher and Stefan Dercon (2018). “{{% resource_link "92274813-0285-45c1-a0c0-d2f6df083293" "The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia" %}}.” *American Economic Journal: Applied Economics*, 10(3): 1-38*.* 
 - Derenoncourt, Ellora, François Gérard, Lorenzo Lagos, and Claire Montialoux (2021). “Racial Inequality, Minimum Wage Spillovers, and the Informal Sector.” NBER Summer Institute Development Economics.
 - Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” 
 - Besley, Timothy and Robin Burgess (2004). “Can Labor Regulation Hinder Economic Performance? Evidence from India.” *Quarterly Journal of Economics*, 119(1): 91-134. 
@@ -424,24 +424,24 @@ Read in detail:
 - Bertrand, Marianne, Chang-Tai Hsieh, and Nick Tsivanidis (2017). “Contract Labor and Firm Growth in India.” 
 - Carranza, Eliana, Robert Garlick, Kate Orkin, and Neil Rankin (2020). “Job Search and Hiring with Two-Sided Limited Information about Workseekers’ Skills*,”* CID Faculty Working Paper No. 383.
 - Wheeler, Laura, Robert Garlick, Eric Johnson, Patrick Shaw, and Marissa Gargano (2021). “LinkedIn(to) Job Opportunities: Experimental Evidence from Job Readiness Training.” *American Economic Journal: Applied Economics (forthcoming)*. Working Paper.
-- \*\*\* Boudreau, Laura (2020). “[Multinational enforcement of labor law: Experimental evidence from Bangladesh’s apparel sector](https://www8.gsb.columbia.edu/researcharchive/articles/26229).” Working Paper.
+- \*\*\* Boudreau, Laura (2020). “{{% resource_link "7faeabd6-4492-473b-b97d-0c58469826ff" "Multinational enforcement of labor law: Experimental evidence from Bangladesh’s apparel sector" %}}.” Working Paper.
 - Boudreau, Laura, Rocco Macchiavello, Virginia Minni, and Mari Tanaka (2021). “Union Leaders: Experimental Evidence from Myanmar.” Columbia Business School. Working Paper.
 
 ## Sessions 22–23: Credit 
 
 *Sources of Credit Constraints: Adverse Selection, Moral Hazard, and Monitoring*
 
-- \*\*\* Banerjee, Abhijit (2004)."[Contracting Constraints, Credit Markets, and Economic Development" (PDF)](http://web.mit.edu/14.771/www/con-dev-april-2002-v-6-23.pdf). In M. Dewatripont, L. Hansen and S. Turnovsky, eds. *Advances in Economics and Econometrics: Theory and Applications*, Eight World Congress of the Econometric Society, Volume III. Cambridge University Press, pp. 1-46. 
-- \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “[Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA5781).” *Econometrica*, 77(6): 1993-2008.
+- \*\*\* Banerjee, Abhijit (2004)."{{% resource_link "e0b3f462-a820-405e-8bd2-3455a8376cbf" "Contracting Constraints, Credit Markets, and Economic Development\" (PDF)" %}}. In M. Dewatripont, L. Hansen and S. Turnovsky, eds. *Advances in Economics and Econometrics: Theory and Applications*, Eight World Congress of the Econometric Society, Volume III. Cambridge University Press, pp. 1-46. 
+- \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “{{% resource_link "38de78eb-8a60-4ccb-9987-225bf7a1bf4a" "Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment" %}}.” *Econometrica*, 77(6): 1993-2008.
 - Banerjee, Abhijit and Esther Duflo (2010). “Giving Credit Where it is Due.” *Journal of Economic Perspectives*, 24(3): 61-80. 
 - Aleem, Irfan (1990). "Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan." *World Bank Economic Review*, 4(3): 329-349. 
 - Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies,* 81 (2): 572-607. 
 
 *Estimating Credit Constraints, and What Happens When You Relax Them*
 
-- \*\*\* McKenzie David, Suresh de Mel, and Christopher Woodruff (2008). “[Returns to Capital in Microenterprises: Evidence from a Field Experiment](https://academic.oup.com/qje/article-abstract/123/4/1329/1933166).” *Quarterly Journal of Economics*, 123(4): 1329-72. 
+- \*\*\* McKenzie David, Suresh de Mel, and Christopher Woodruff (2008). “{{% resource_link "51627b7c-6010-41c6-afff-84d552567426" "Returns to Capital in Microenterprises: Evidence from a Field Experiment" %}}.” *Quarterly Journal of Economics*, 123(4): 1329-72. 
 - McKenzie, David, Suresh de Mel, and Christopher Woodruff (2012). “One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka.” *Science*, 335(6071): 962-66. 
-- \*\*\* Townsend, Robert M. and Joseph P. Kaboski (2011), "[A Structural Evaluation of a Large-Scale Quasi-Experimental Microfinance Initiative](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7079)." *Econometrica*, 79(5): 1357-1406. 
+- \*\*\* Townsend, Robert M. and Joseph P. Kaboski (2011), "{{% resource_link "d0cdc04a-958e-4c49-a19c-58e9ddf62306" "A Structural Evaluation of a Large-Scale Quasi-Experimental Microfinance Initiative" %}}." *Econometrica*, 79(5): 1357-1406. 
 - Karlan, Dean, Robert Osei, Isaac Osei-Akoto and Christopher Udry (2014). “Agricultural Decisions After Relaxing Credit and Risk Constraints.” *The Quarterly Journal of Economics*, 129 (2): 597-652. 
 - Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies*, 81(2): 572-607.
 - Keniston, Daniel E. (2011). “Experimental vs. Structural Estimates of the Return to Capital in Microenterprises.” Mimeo, Yale.
@@ -450,11 +450,11 @@ Read in detail:
 
 *Microfinance: Impacts and Mechanisms*
 
-- \*\*\*Meager, Rachael (2019). “[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://www.aeaweb.org/articles?id=10.1257/app.20170299).” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
-- \*\*\* Hussam, Reshmaan, Natalia Rigol, and Benjamin N. Roth (2020). “[Targeting High Ability Entrepreneurs Using Community Information: Mechanism Design in The Field](https://www.aeaweb.org/articles?id=10.1257/aer.20200751).” PEDL Research Paper. 
-- \*\*\* Field, Erica, John Papp, Rohini Pande and Natalia Rigol (2013). “[Does the Classic Microfinance Model Discourage Entrepreneurship Among the Poor? Experimental Evidence from India](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2196).” *American Economic Review*, 103(6): 2196-2226.
-- \*\*\* Karlan, Dean (2007). "[Social Connections and Group Banking](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2007.02015.x)." *The Economic Journal*, 117(517): F52-F84. 
-- \*\*\* Feigenberg, Benjamin, Erica Field and Rohini Pande (2013). “[The Economic Returns to Social Interaction: Experimental Evidence from Microfinance](https://academic.oup.com/restud/article-abstract/80/4/1459/1582821?redirectedFrom=fulltext).” *Review of Economic Studies*, 80(4): 1459-1483. 
+- \*\*\*Meager, Rachael (2019). “{{% resource_link "936ea5d2-e39b-40a9-9c27-8aab0f312f75" "Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments" %}}.” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
+- \*\*\* Hussam, Reshmaan, Natalia Rigol, and Benjamin N. Roth (2020). “{{% resource_link "6f82807a-0fd4-4a17-ad32-a517fdb3d56d" "Targeting High Ability Entrepreneurs Using Community Information: Mechanism Design in The Field" %}}.” PEDL Research Paper. 
+- \*\*\* Field, Erica, John Papp, Rohini Pande and Natalia Rigol (2013). “{{% resource_link "e2fb3719-4c00-4469-9c74-808b4f6c3c26" "Does the Classic Microfinance Model Discourage Entrepreneurship Among the Poor? Experimental Evidence from India" %}}.” *American Economic Review*, 103(6): 2196-2226.
+- \*\*\* Karlan, Dean (2007). "{{% resource_link "01e79c01-d350-4ea6-bdb6-fca66cb78468" "Social Connections and Group Banking" %}}." *The Economic Journal*, 117(517): F52-F84. 
+- \*\*\* Feigenberg, Benjamin, Erica Field and Rohini Pande (2013). “{{% resource_link "6d9eef7f-4181-4d6e-8411-404720e918e8" "The Economic Returns to Social Interaction: Experimental Evidence from Microfinance" %}}.” *Review of Economic Studies*, 80(4): 1459-1483. 
 - Bryan, Gharad, Dean Karlan, and Jonathan Zinman (2015). "Referrals: Peer Screening and Enforcement in a Consumer Credit Field Experiment." *American Economic Journal: Microeconomics*, 7(3): 174-204.
 - Giné, Xavier and Dean Karlan (2014). "Group versus Individual Liability: Short and Long Term Evidence from Philippine Microcredit Lending Groups." *Journal of Development Economics*, 107: 65–83. 
 - Field, Erica and Rohini Pande (2008). “Repayment Frequency and Default in Micro-finance: Evidence from India.” *Journal of the European Economics Association Papers and Proceedings 6(2-3): 501-509.*
